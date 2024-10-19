@@ -1,3 +1,3 @@
 # CodeSoft-projects
 
-i have developed projects given by codesoft team ,all projects are combined in this repository
+i have developed number guessing game using java programming language 
